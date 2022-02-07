@@ -6,5 +6,5 @@ s3Config:
  fileName: Banks.csv
 
 awsConfig: 
- accessId: AKIAVUSDQHCLYYN6RY5R
+ accessId: xxxxxxxxxxx
  secretKey: ----------------
